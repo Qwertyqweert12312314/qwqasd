@@ -1,0 +1,135 @@
+body{
+    margin: 0;
+    background-repeat: no-repeat;
+    height: 1500px;
+    background-image:linear-gradient(black,rgb(158, 25, 25));
+}
+.header{
+    border-top: red 2px solid;
+    border-bottom: red 2px solid;
+    height: 150px;
+    width: auto;
+    background-color:rgb(0, 0, 0);
+}
+.logo{
+    position: relative;
+    left: 60px;
+    top: 40px;
+    height: 180px;
+    width: 180px;
+    border-radius: 100px;
+}
+.logo:hover{
+    top: 42px;
+    left: 62px;
+    box-shadow: none;
+}
+.coil1{
+    margin-top: 0;
+    top: -40px;
+    position: relative;
+    left: 250px;
+    border-radius: 21px;
+}
+.coil1:hover{
+    left: 252px;
+    top: -37px;
+}
+.coil2{
+    margin-top: 0;
+    top: -40px;
+    position: relative;
+    left: 350px;
+    border-radius: 21px;
+}
+.coil2:hover{
+    left: 352px ;
+    top: -37px;
+}
+.coil3{
+    position:relative;
+    margin-top: 0;
+    top: -40px;
+    left: 450px;
+    border-radius: 21px;
+}
+.coil3:hover{
+    left: 452px;
+    top: -37px;
+}
+.block1{
+    position: relative;
+    top: 100px;
+    left: 50px;
+    height: 900px;
+    width: 450px;
+    background-color: rgba(186, 182, 182, 0.322);
+}
+.block2{
+    position: relative;
+    top: -800px;
+    left: 525px;
+    height: 900px;
+    width: 450px;
+    background-color: rgba(186, 182, 182, 0.322);
+}
+.block3{
+    position:relative;
+    top: -1700px;
+    left: 1000px;
+    height: 900px;
+    width: 450px;
+    background-color: rgba(186, 182, 182, 0.322);
+}
+.lone{
+    border-radius:1000px;
+    left: 50px;
+    padding: 30px;
+    position: relative;
+    width: 300px;
+    height: 350px;
+}
+.sfchikk{
+    border-radius:1000px;
+    left: 50px;
+    padding: 30px;
+    position: relative;
+    width: 300px;
+    height: 350px;
+}
+.axee{
+    border-radius:1000px;
+    left: 50px;
+    padding: 30px;
+    position: relative;
+    width: 300px;
+    height: 350px;
+}
+a{
+    text-decoration: none;
+}
+.loneee{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 20px;
+    position: relative;
+    font-size: 150%;
+    top: 100px;
+    color: white;
+
+}
+.tinkeer{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 20px;
+    position: relative;
+    font-size: 150%;
+    top: 100px;
+    color: white;
+}
+.axeeeee{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 20px;
+    position: relative;
+    font-size: 150%;
+    top: 100px;
+    color: white;
+}
